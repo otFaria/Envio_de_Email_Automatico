@@ -92,10 +92,6 @@
   </table>
 
   <h2>Contribuição</h2>
-  <p>Contribuições são bem-vindas! Sinta-se à vontade para abrir <a href="https://github.com/seu-usuario/seu-repositorio/issues">issues</a> ou <a href="https://github.com/seu-usuario/seu-repositorio/pulls">pull requests</a>.</p>
-
-  <h2>Licença</h2>
-  <p>Este projeto está licenciado sob a <a href="LICENSE">MIT License</a>.</p>
-
+  <p>Contribuições são bem-vindas! Sinta-se à vontade para abrir <a href="https://github.com/otFaria/Envio_de_Email_Automatico/issues">issues</a> ou <a href="https://github.com/otFaria/Envio_de_Email_Automatico/pulls">pull requests</a>.</p>
 </body>
 </html>
